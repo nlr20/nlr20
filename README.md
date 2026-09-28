@@ -1,16 +1,17 @@
-## Hi there 👋
+# Data engineering portfolio
 
-<!--
-**nlr20/nlr20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a data engineer with professional experience in Azure Data Factory, Snowflake, Python, SQL, and data integration. I focus on reliable pipelines, clear data models, and analytics people can trust.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Rugby Analytics Lakehouse](https://github.com/nlr20/rugby-analytics-lakehouse)
+
+An incremental analytics pipeline for the 2024–25 United Rugby Championship season. The working local version ingests 151 fixtures, tracks source corrections, models matches and player scoring events, and reports source-quality discrepancies. Airflow, Azure storage, Databricks/Delta, and dbt implementation code is included for the next deployment stage.
+
+**Engineering focus:** idempotent loads · late corrections · Bronze/Silver/Gold modelling · data quality · reproducible tests
+
+## Tools I use professionally
+
+Azure Data Factory · Snowflake · Python · SQL · data integration
+
+
